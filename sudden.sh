@@ -2,7 +2,7 @@
 
 FILE=~/tmp/_SUDDEN
 
-while ture
+while true
 do 
 	echo "check"
 	sleep 3
