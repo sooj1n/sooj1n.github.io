@@ -6,6 +6,7 @@ DATE=$(date +"%Y%m%d %H:%M:%S")
 
 while true
 do
+
         if [[ -f "$FILE" ]]; then
 		#echo "check $FILE"
 		echo "SUDDEN!!!"
@@ -15,6 +16,8 @@ do
 	        echo $DATE
 	fi
 	sleep 3
-#       date
 done
 
+        sleep 3
+        fi
+done
