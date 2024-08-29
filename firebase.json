@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "samdulshopsj",
+    "public": "docs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
